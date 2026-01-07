@@ -15,6 +15,8 @@ cat/etc/os-release
 
 uname -a
 
+**screenshot**
+![Alt text](relative/path/to/image.png)
 
 ---
 
