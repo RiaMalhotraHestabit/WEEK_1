@@ -81,6 +81,27 @@ echo "$PATH" | tr ':' '\n' | grep -Ei 'node|npm'
 
 ![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_5.png)
 
+---
+
+## 2. Install & Use NVM (Node Version Manager)
+
+---
+
+### 2.1 Install NVM
+
+**Command used:**
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+**screenshot:**
+
+
+
+Verify installation:
+**command used:**
+
+**screenshot:**
+
 
 
 ---
