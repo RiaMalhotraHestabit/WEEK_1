@@ -15,7 +15,7 @@ cat/etc/os-release
 
 uname -a
 
-**screenshot: **
+**screenshot:**
 
 ![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_1.png)
 
@@ -27,7 +27,9 @@ uname -a
 
 echo $SHELL
 
-**screenshot: **
+**screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_2.png)
 
 
 ---
@@ -37,11 +39,17 @@ echo $SHELL
 
 ls -l $(which node)
 
-**screenshot: **
+**screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_3.png)
+
 
 which node
 
-**screenshot: **
+**screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_part2.png)
+
 
 
 ---
@@ -53,7 +61,11 @@ which node
 
 npm root -g
 
-**screenshot: **
+**screenshot:**
+
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_4.png)
+
 
 ### 1.4.2 Global binary Directory
 
@@ -61,7 +73,7 @@ npm root -g
 
 npm bin -g
 
-**screenshot: **
+**screenshot:**
 
 ---
 ### 1.5 PATH Entries Including node or npm
@@ -70,7 +82,10 @@ npm bin -g
 
 echo "$PATH" | tr ':' '\n' | grep -Ei 'node|npm'
 
-**screenshot: **
+**screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_5.png)
+
 
 
 ---
