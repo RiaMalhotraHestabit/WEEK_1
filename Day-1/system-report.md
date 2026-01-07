@@ -95,12 +95,66 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
 **screenshot:**
 
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task2_1.1.png)
 
 
-Verify installation:
+**Verify installation**
+
 **command used:**
 
+nvm --version
+
 **screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task2_1.2.png)
+
+---
+
+### 2.2 Switch Node from LTS → Latest and back
+
+### 2.2.1 Switch to LTS Node Version
+
+**Command used:**
+
+nvm install --lts
+
+nvm use --lts
+
+node -v
+
+**screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task2_2.1.png)
+
+
+### 2.2.2 Switch to Latest Node Version
+
+**Command used:**
+
+nvm install node
+
+nvm use node
+
+node -v
+
+
+**screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task2_2.2.png)
+
+### 2.2.3 Switch Back to LTS Version
+
+**Command used:**
+
+nvm use --lts
+
+node -v
+
+
+**screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task2_2.3.png)
+
 
 
 
