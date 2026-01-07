@@ -15,8 +15,9 @@ cat/etc/os-release
 
 uname -a
 
-**screenshot**
-![Alt text](relative/path/to/image.png)
+**screenshot: **
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_1.png)
 
 ---
 
@@ -26,12 +27,22 @@ uname -a
 
 echo $SHELL
 
+**screenshot: **
+
+
 ---
 ### 1.3 Node Binary Path
 
 **Command used:**
 
 ls -l $(which node)
+
+**screenshot: **
+
+which node
+
+**screenshot: **
+
 
 ---
 
@@ -42,11 +53,15 @@ ls -l $(which node)
 
 npm root -g
 
+**screenshot: **
+
 ### 1.4.2 Global binary Directory
 
 **Command used:**
 
 npm bin -g
+
+**screenshot: **
 
 ---
 ### 1.5 PATH Entries Including node or npm
@@ -54,5 +69,8 @@ npm bin -g
 **Command used:**
 
 echo "$PATH" | tr ':' '\n' | grep -Ei 'node|npm'
+
+**screenshot: **
+
 
 ---
