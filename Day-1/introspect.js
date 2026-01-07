@@ -23,7 +23,4 @@ console.log(`System Uptime: ${formatUptime(os.uptime())}`);
 console.log(`Current Logged User: ${os.userInfo().username}`);
 console.log(`Node Path: ${nodePath}`);
 
-chmod +x introspect.js
-
-node introspect.js
 
