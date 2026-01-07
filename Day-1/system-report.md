@@ -37,18 +37,11 @@ echo $SHELL
 
 **Command used:**
 
-ls -l $(which node)
-
-**screenshot:**
-
-![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_3.png)
-
-
 which node
 
 **screenshot:**
 
-![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_part2.png)
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_3_part2.png)
 
 
 
@@ -64,7 +57,7 @@ npm root -g
 **screenshot:**
 
 
-![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_4.png)
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_4_part1.png)
 
 
 ### 1.4.2 Global binary Directory
@@ -74,6 +67,8 @@ npm root -g
 npm bin -g
 
 **screenshot:**
+
+![Alt text](https://github.com/RiaMalhotraHestabit/WEEK_1/blob/main/Day-1/Screenshots/task1_4_part2.png)
 
 ---
 ### 1.5 PATH Entries Including node or npm
