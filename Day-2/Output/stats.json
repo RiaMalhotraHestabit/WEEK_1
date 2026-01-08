@@ -1,0 +1,48 @@
+{
+  "totalWords": 157609,
+  "uniqueWords": 12,
+  "longestWord": "consectetur",
+  "shortestWord": "ipsum",
+  "topWords": [
+    [
+      "ipsum",
+      13078
+    ],
+    [
+      "dolor",
+      13071
+    ],
+    [
+      "magna",
+      13069
+    ],
+    [
+      "lorem",
+      13052
+    ],
+    [
+      "dolore",
+      13404
+    ],
+    [
+      "labore",
+      13279
+    ],
+    [
+      "tempor",
+      13052
+    ],
+    [
+      "aliqua",
+      12980
+    ],
+    [
+      "eiusmod",
+      13260
+    ],
+    [
+      "incididunt",
+      13213
+    ]
+  ]
+}
