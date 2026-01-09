@@ -18,6 +18,7 @@ To inspect incoming request headers, the `/echo` endpoint was used.
 curl http://localhost:3000/echo
 
 **output**
+
 ![Echo Headers Response](Screenshots/echo.png)
 
 
@@ -57,9 +58,11 @@ responses can impact performance, reinforcing the need for pagination
 in real-world APIs.
 
 ### command used
+
 curl "http://localhost:3000/slow?ms=2000"
 
 **output**
+
 ![Slow Endpoint Query Params](Screenshots/slow.png)
 
 ## 3. HTTP Caching Analysis
@@ -71,8 +74,10 @@ without re-fetching data from the server.
 
 curl -I http://localhost:3000/cache
 
+
 **output**
-![Cache Headers Screenshot](screenshots/Cache.png)
+
+![Cache Headers Screenshot](Screenshots/cache.png)
 
 ## Conclusion
 
