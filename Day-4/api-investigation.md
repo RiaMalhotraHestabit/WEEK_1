@@ -18,7 +18,8 @@ To inspect incoming request headers, the `/echo` endpoint was used.
 curl http://localhost:3000/echo
 
 **output**
-3
+![Echo Headers Response](Screenshots/echo.png)
+
 
 
 ---
@@ -59,7 +60,7 @@ in real-world APIs.
 curl "http://localhost:3000/slow?ms=2000"
 
 **output**
-4
+![Slow Endpoint Query Params](Screenshots/slow.png)
 
 ## 3. HTTP Caching Analysis
 
@@ -71,7 +72,7 @@ without re-fetching data from the server.
 curl -I http://localhost:3000/cache
 
 **output**
-5
+![Cache Headers Screenshot](screenshots/Cache.png)
 
 ## Conclusion
 
