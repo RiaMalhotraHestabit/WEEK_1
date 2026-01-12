@@ -165,15 +165,6 @@ This document captures **what I learned during Week 1** and **what broke along t
 
 ---
 
-## What I Will Do Better in Week 2
-
-* Read error messages completely before reacting.
-* Measure performance instead of guessing.
-* Document steps immediately, not at the end.
-* Prefer understanding fundamentals over shortcuts.
-
----
-
 ## Final Reflection
 
 Week 1 was challenging but foundational. Most issues came from **gaps in fundamentals**, not lack of effort. Breaking things was part of the learning process, and each failure clarified how systems actually work.
